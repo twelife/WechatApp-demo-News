@@ -23,6 +23,7 @@
 }
 .title{
     font-size:12px;
+    font-family:"微软雅黑";
 }
 .sub_title{
     position:absolute;
