@@ -3,3 +3,7 @@
 由于新闻详情是使用链接直接打开的，所以只是获取了分类及，新列表；
 
 默认“头条”分类与其它分类的类型获取方式不同，所以有两次处理，有点繁琐。
+
+![image](WechatApp-demo-News/desc-img/1.png)
+
+![image](WechatApp-demo-News/desc-img/2.png)
