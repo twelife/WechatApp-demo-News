@@ -4,6 +4,6 @@
 
 默认“头条”分类与其它分类的类型获取方式不同，所以有两次处理，有点繁琐。
 
-![image](https://github.com/twelife/WechatApp-demo-News/desc-img/1.png)
+![image](https://raw.githubusercontent.com/twelife/WechatApp-demo-News/master/desc-img/1.png)
 
-![image](https://github.com/twelife/WechatApp-demo-News/desc-img/2.png)
+![image](https://raw.githubusercontent.com/twelife/WechatApp-demo-News/master/desc-img/2.png)
